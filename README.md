@@ -4,12 +4,13 @@ Cursive text detection and recognition is a challenging problem in computer visi
   ### Key Challenges: 
   1.Character Segmentation
   2.Ligature Coverage
-  3.Static and scrolling ticker-text
-  ***Text understanding systems include three main topics***
-  A.Text Detection
-  B.Text Extraction 
-  C.Text Recognition
+  3.Static and scrolling ticker-text\
+***Text understanding systems include three main parts***
+  - A.Text Detection
+  - B.Text Extraction 
+  - C.Text Recognition
   
+  ***Our Focus***
   In first phase we are focusing on a deep learning-based text detector called EAST, which is based on Zhou et al.’s 2017 paper, EAST: An Efficient and Accurate Scene Text Detector.
 [
 ![opencv_text_detection_east](https://user-images.githubusercontent.com/59466242/71887210-79013d80-315f-11ea-842b-c14429482833.jpg)
