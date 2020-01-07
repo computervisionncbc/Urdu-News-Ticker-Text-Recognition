@@ -5,7 +5,7 @@ Cursive text detection and recognition is a challenging problem in computer visi
   1.Character Segmentation
   2.Ligature Coverage
   3.Static and scrolling ticker-text
-  ***Text understanding systems include three main topics:
+  ***Text understanding systems include three main topics***
   A.Text Detection
   B.Text Extraction 
   C.Text Recognition
