@@ -7,7 +7,7 @@ Cursive text detection and recognition is a challenging problem in computer visi
   - C.Text Recognition
   
   ***Our Focus***
-  In first phase we are focusing on a deep learning-based text detector called EAST, which is based on Zhou et al.’s 2017 paper, EAST: An Efficient and Accurate Scene Text Detector.we fine-tuned an implementation3 of the Efficient and Accurate Scene Text Detector (EAST) over an urdu data sets to be able to return the bounding boxes of all the text within a frame and ***ignore english text in each frame***
+  In first phase we are focusing on a deep learning-based text detector called EAST, which is based on Zhou et al.’s 2017 paper, **EAST: An Efficient and Accurate Scene Text Detector**.we fine-tuned an implementation of the EAS over an urdu data sets to be able to return the bounding boxes of all the text within a frame and ***ignore english text in each frame***
 [
 ![opencv_text_detection_east](https://user-images.githubusercontent.com/59466242/71887210-79013d80-315f-11ea-842b-c14429482833.jpg)
 ](url)
