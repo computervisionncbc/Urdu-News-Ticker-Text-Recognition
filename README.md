@@ -9,3 +9,7 @@ Cursive text detection and recognition is a challenging problem in computer visi
   A.Text Detection
   B.Text Extraction 
   C.Text Recognition
+  <p align="center">
+  <img src="https://github.com/computervisionncbc/Urdu-News-Ticker-Text-Recognition/issues/1#issue-546194325 " width="350" title="hover text">
+</p>
+ 
